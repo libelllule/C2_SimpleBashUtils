@@ -1,0 +1,8 @@
+Hello, World!
+This is a test file for grep.
+12345
+APPLE
+apple
+ApPlE
+
+End of file.
